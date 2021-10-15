@@ -1,0 +1,22 @@
+#Yes {
+    background-color: #3D9970;
+          width: 100px;
+          height: 100px;
+          margin-left: 600px;
+          font-size: 200%;
+}
+
+#No {
+    background-color: #e40f0f;
+    width: 25px;
+    height: 25px;
+    margin-left: 800px;
+    margin-top: 50px;
+    font-size: 50%;
+}
+
+#Do {
+    text-align: center;
+    font-size: 1000%;
+    top: 500px;
+}
